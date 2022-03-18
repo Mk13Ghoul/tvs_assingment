@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tvs_assingment/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/tvs_assingment/static/js/main.d84d6e7a.chunk.js",
+    "main.js.map": "/tvs_assingment/static/js/main.d84d6e7a.chunk.js.map",
+    "runtime-main.js": "/tvs_assingment/static/js/runtime-main.3522bbda.js",
+    "runtime-main.js.map": "/tvs_assingment/static/js/runtime-main.3522bbda.js.map",
+    "static/css/2.c0828da0.chunk.css": "/tvs_assingment/static/css/2.c0828da0.chunk.css",
+    "static/js/2.a3e13d62.chunk.js": "/tvs_assingment/static/js/2.a3e13d62.chunk.js",
+    "static/js/2.a3e13d62.chunk.js.map": "/tvs_assingment/static/js/2.a3e13d62.chunk.js.map",
+    "index.html": "/tvs_assingment/index.html",
+    "static/css/2.c0828da0.chunk.css.map": "/tvs_assingment/static/css/2.c0828da0.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/tvs_assingment/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.a3e13d62.chunk.js.LICENSE.txt": "/tvs_assingment/static/js/2.a3e13d62.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/tvs_assingment/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3522bbda.js",
+    "static/css/2.c0828da0.chunk.css",
+    "static/js/2.a3e13d62.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.d84d6e7a.chunk.js"
+  ]
+}
